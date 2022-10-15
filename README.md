@@ -8,4 +8,17 @@ laurentiuspurba@penguin:~$ curl -sl https://deb.nodesource.com/setup_14.x| sudo 
 laurentiuspurba@penguin:~$ sudo apt-get install -y nodejs
 ```
 
+## Instal node version manager
+```
+laurentiuspurba@penguin:~$ sudo npm install -g n
+```
+
+## Editor
+Well, you don't need VS Code, since GitHub has it already. This is how you should do
+```
+1. Let say you have this GH URL https://github.com/laurentiuspurba/react/blob/main/README.md
+2. Change the '.com' to '.dev' then you will have free VS Code
+3. Hopefully, I'll still be free :pray:
+```
+
 All things react related 
