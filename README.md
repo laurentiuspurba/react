@@ -21,4 +21,9 @@ Well, you don't need VS Code, since GitHub has it already. This is how you shoul
 3. Hopefully, I'll still be free :pray:
 ```
 
-All things react related 
+## Let's do the React app
+```
+laurentiuspurba@penguin:~$ npx create-react-app my-app
+laurentiuspurba@penguin:~$ cd my-app
+laurentiuspurba@penguin:~$ npm start
+``` 
