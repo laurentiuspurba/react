@@ -18,8 +18,9 @@ Well, you don't need VS Code, since GitHub has it already. This is how you shoul
 ```
 1. Let say you have this GH URL https://github.com/laurentiuspurba/react/blob/main/README.md
 2. Change the '.com' to '.dev' then you will have free VS Code
-3. Hopefully, I'll still be free :pray:
 ```
+Hopefully, I'll still be free :pray:
+
 
 ## Let's do the React app
 ```
